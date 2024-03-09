@@ -1,4 +1,0 @@
-{
-    "origins": ["https://abc.net"],
-    "originsRegex": ["http://localhost:[0-9]+"]
-  }
